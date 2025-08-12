@@ -1,5 +1,5 @@
 # WP Lock Plugins #
-Contributors: Luiz Calderaro <lzcalderaro@gmail.com>, Licínio Sousa <licinio@wakeup.pt>  
+Contributors: Luiz Calderaro <lzcalderaro@gmail.com>
 Tags: Plugin, management, activate, deactivate, prevent, allow  
 Requires at least:  4.5.6  
 Tested up to: 4.7  
